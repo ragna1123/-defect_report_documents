@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="WU2USd9Nlp-gCDYwhOk0" name="ページ1">
+        <mxGraphModel dx="808" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry width="710" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="2">
+                    <mxGeometry x="690" y="60" width="20" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;" vertex="1" parent="2">
+                    <mxGeometry y="20" width="710" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;" vertex="1" parent="2">
+                    <mxGeometry y="400" width="710" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFFF;" vertex="1" parent="2">
+                    <mxGeometry x="695" y="80" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;" vertex="1" parent="2">
+                    <mxGeometry y="60" width="110" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="検索バー" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="2">
+                    <mxGeometry x="190" y="27.5" width="370" height="22.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="670" y="25" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="全件表示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="25" y="70" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="カテゴリ↓" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="25" y="120" width="65" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="エリア↓" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="25" y="95" width="65" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="110" y="60" width="580" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="全件(5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B3B3B3;" vertex="1" parent="2">
+                    <mxGeometry x="110" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="未処置/暫定処置(3)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#B3B3B3;" vertex="1" parent="2">
+                    <mxGeometry x="230" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="恒久処置/クローズ(2)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=#B3B3B3;" vertex="1" parent="2">
+                    <mxGeometry x="350" y="100" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="♻️" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="110" y="60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="EXCEL エクスポート" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fontColor=#4D4D4D;" vertex="1" parent="2">
+                    <mxGeometry x="560" y="70" width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="610" y="27.5" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="120" width="580" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="◻︎ ステータス | エリア | カテゴリ | 対象機器 | タイトルタイトルタイトル 　　　　　　　　　　 |発生時間　" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="120" width="580" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="◻︎&amp;nbsp; 未処置 | Y2&amp;nbsp; &amp;nbsp;| 排水&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 最終中和 | 攪拌モータートリップの件 　　　　　　　　　| 2025/04/11 01:10　" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="150" width="580" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="◻︎&amp;nbsp; 未処置 | Y2&amp;nbsp; &amp;nbsp;| 排水&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 最終中和 | 攪拌モータートリップの件 　　　　　　　　　| 2025/04/11 01:10　" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="180" width="580" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="◻︎&amp;nbsp; 未処置 | Y2&amp;nbsp; &amp;nbsp;| 排水&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 最終中和 | 攪拌モータートリップの件 　　　　　　　　　| 2025/04/11 01:10　" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="210" width="580" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="◻︎&amp;nbsp; 未処置 | Y2&amp;nbsp; &amp;nbsp;| 排水&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 最終中和 | 攪拌モータートリップの件 　　　　　　　　　| 2025/04/11 01:10　" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="240" width="580" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="114" y="69" width="10" height="10" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
